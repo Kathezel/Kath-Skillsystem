@@ -2,7 +2,7 @@
 A Minecraft skillsystem Datapack
 
 # What does it do?
-This Datapack implements a simple and not too overpowered skillsystem which is using your EXP to convert it into skillpoints which you then can use to skill up to **90 times into 9 different Skills.**
+This Datapack implements a simple and not too overpowered skillsystem which is using your EXP to convert it into skillpoints which you then can use to skill **into 10 different Skills.**
 
 **Combinable datpack: https://modrinth.com/datapack/kaths-simple-bossmobs**
 
@@ -10,10 +10,31 @@ This Datapack implements a simple and not too overpowered skillsystem which is u
 <summary>Details</summary>
 
 - Every skill needs 10 skillpoints to max out.
+    - HP-Regen only has 2level but cost 10 skillpoints to max.
 - The amount of EXP needed increases by 100 EXP every skillpoint.
-- To max out **everything** you need 319 total levels or 409560 EXP-points.
-- You will lose all skillpoints and skills after you die so ...
-- Eating a enchanted an golden apple will save your skills after death **once**. After dying you need to eat another one, eating more will not stack. **Or** use the command provided in the *useful Commands* tab.
+    - Max EXP use is 2000EXP ~35lvl per skillpoint.
+- You will lose all skillpoints and skills after you die.
+    - Eat a enchanted golden apple to save your skills
+    - *or* use the command provided in the *usefull commnds* tab
+
+</details>
+
+<details>
+<summary>Skills you can level up</summary>
+
+- Armor
+- Armor toughness
+- Attack speed
+- Damage
+- HP
+- HP-Regen
+- Knockback resistance
+- Luck ( Fishing luck, **not Fortune or Looting**  )
+- Movement speed
+
+**in Planing:**
+- Pickup range
+
 
 </details>
 
