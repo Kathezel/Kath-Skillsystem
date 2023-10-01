@@ -85,7 +85,7 @@ On the right you see a scoreboard of your skill, there you see, how much EXP and
 <details>
 <summary>Players skills shown by holding the skillbook:</summary>
 
-![Player Skills shown by holding the Skillbook](https://cdn.modrinth.com/data/B8bh5HHu/images/2b2de69a3bcd51b260dfe10505cfbe0d64fd0bce.png)
+![Player Skills shown by holding the Skillbook](https://cdn.modrinth.com/data/B8bh5HHu/images/7af0767a20da9870e3c62d690d19cc1d0807aad0.png)
 
 </details>
 
